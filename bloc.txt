@@ -1,0 +1,4 @@
+#Dominios bloqueados por pedido de ciberseguridad
+#Ticket 0149136 — Bloquear dominios y remitentes
+
+0.0.0.0  jeeeni.uk
