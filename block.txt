@@ -1,49 +1,25 @@
 #Dominios bloqueados por pedido de ciberseguridad
 #Ticket 0149136 — Bloquear dominios y remitentes
 
-0.0.0.0 www.cont.ar 
-0.0.0.0 mundial.cont.ar 
-0.0.0.0	thanhtraspa.com 
-0.0.0.0	consdeproaun.is-a-bulls-fan.c… 
-0.0.0.0	l.ead.me 
-0.0.0.0	document-ar.com 
-0.0.0.0	multadetrafico.cloud 
-0.0.0.0	havaprint.com 
-0.0.0.0	verdeplusmn17265.lt.emlnk.com 
-0.0.0.0	rebrandly.com 
-0.0.0.0	tomowebsite.net 
-0.0.0.0	updatinoiup-vercel-app.transl… 
-0.0.0.0	webvirtuals.centralus.cloudap… 
-0.0.0.0	sealonlineplus.com 
-0.0.0.0	www.tobistory.com 
-0.0.0.0	efranfacdigitaanglur.norwayea… 
-0.0.0.0	a85ec212eea8821cf7.dnsalias.c… 
 0.0.0.0	cloudflare-ipfs.com 
 0.0.0.0	facturas.duratex.com.mx 
 0.0.0.0	tudoprainfo.info 
 0.0.0.0	www.galileochini.it 
-0.0.0.0	https://serviciosexpress.es 
 0.0.0.0	serviciosexpress.es 
-0.0.0.0	https://bytlis.net/ 
-0.0.0.0	https://www.mediapart.fr/ 
-0.0.0.0	https://www.netilfixapps.com/ 
+0.0.0.0	serviciosexpress.es 
+0.0.0.0	bytlis.net
+0.0.0.0	mediapart.fr
+0.0.0.0	netilfixapps.com
 0.0.0.0	ipfs.io 
-0.0.0.0	wordpress-blue-fish-karlilod2… 
-0.0.0.0	wpenginepowered.com 
 0.0.0.0	daroconstruct.info 
 0.0.0.0	continua.com.br 
 0.0.0.0	securepubads.g.doubleclick.net 
-0.0.0.0	gestionarchivosprovisionalpdf… 
-0.0.0.0	abogadosasociadosrodriguezlic… 
 0.0.0.0	warseray.glitch.me 
 0.0.0.0	wilsupeian.glitch.me 
 0.0.0.0	8809mail000.holdings 
 0.0.0.0	host.secureserver.net 
 0.0.0.0	glitch.me 
 0.0.0.0	jeeeni.uk 
-0.0.0.0	nichollsrccleaningservices.co… 
-0.0.0.0	gobierno-digital.click 
-0.0.0.0	boiling-honey-towertyyah-jhah… 
 0.0.0.0	contaboserver.net 
 0.0.0.0	businesshelpsystem-suite.com 
 0.0.0.0	3utilities.com 
@@ -95,6 +71,6 @@
 0.0.0.0	planb-lyon.com 
 0.0.0.0	correo-ar.vercel.app 
 0.0.0.0	rosastronomy.ru 
-0.0.0.0	icpress.ca
+0.0.0.0	icpress.ca 
 0.0.0.0 mayoclinic.org
 
