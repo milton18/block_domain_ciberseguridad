@@ -95,5 +95,6 @@
 0.0.0.0	planb-lyon.com 
 0.0.0.0	correo-ar.vercel.app 
 0.0.0.0	rosastronomy.ru 
-0.0.0.0	icpress.ca 
+0.0.0.0	icpress.ca
+0.0.0.0 www.mayoclinic.org
 
