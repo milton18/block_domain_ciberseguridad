@@ -2,6 +2,7 @@
 #Ticket 0149136 — Bloquear dominios y remitentes
 #
 #
+0.0.0.0 sales5rrt.digital
 https://bafkreieuyhdhxb46ga2ltvveumg6tis5at6t6xkgz35swjwvwegs63v2tm.ipfs.dweb.link/
 wpenginepowered.com
 https://piepvial.com
@@ -18,7 +19,6 @@ https://8809mail000.holdings
 thruhere.net
 jcourt.wpchef.eu
 heluniversalec.glitch.me
-sales5rrt.digital
 glitch.me
 cotilandia.blob.core.windows.net
 jeeeni.uk
