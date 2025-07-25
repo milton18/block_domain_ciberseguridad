@@ -5,3 +5,4 @@
 0.0.0.0 sales5rrt.digital
 0.0.0.0 wilsupeian.glitch.me
 0.0.0.0 warseray.glitch.me
+0.0.0.0 goodenoughcooking.com
